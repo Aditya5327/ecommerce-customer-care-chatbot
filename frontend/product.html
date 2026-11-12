@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product — CircuitCart</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="logo"><span class="dot"></span>CircuitCart</a>
+      <div class="nav-links">
+        <a href="index.html">Shop</a>
+        <a href="cart.html" class="nav-icon-link">
+          Cart <span id="cart-badge" class="cart-badge">0</span>
+        </a>
+        <span id="nav-auth-slot"></span>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div id="product-detail-root">
+      <div class="loading-text">Loading product...</div>
+    </div>
+  </div>
+
+  <button class="chatbot-toggle" id="chatbot-toggle">💬</button>
+  <div class="chatbot-window" id="chatbot-window">
+    <div class="chatbot-header">Assistant</div>
+    <div class="chatbot-body">Chatbot wiring lands in Phase 4 — this is just the widget shell.</div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script src="js/product.js"></script>
+  <script src="js/chatbot.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+Return and Refund Policy
+
+Return eligibility: Products can be returned within 7 days of delivery, provided they are unused, in their original packaging, and include all accessories that came with the product.
+
+Non-returnable situations: Orders that have not yet been delivered cannot be "returned" - they can potentially be cancelled instead, if they have not shipped yet. Products damaged due to misuse after delivery are not eligible for return.
+
+How to request a return: Customers can request a return through their order history page, or by asking the chatbot to start a return for a specific delivered order. A reason for the return should be provided.
+
+Refund process: Once a return is approved, a refund is issued to the original payment method. Refunds are typically processed within 5 to 7 business days after the returned item is received and inspected. Customers can check refund status at any time using their order number.
+
+Order cancellation: Orders can only be cancelled while they are still in "pending" or "confirmed" status - meaning they have not shipped yet. Once an order has shipped, it can no longer be cancelled, but a return can be requested after delivery instead. Cancelling a paid order automatically triggers a refund to the original payment method.
+
+Exchange policy: CircuitCart does not currently offer direct product exchanges. Customers who want a different product should return the original item for a refund and place a new order separately.

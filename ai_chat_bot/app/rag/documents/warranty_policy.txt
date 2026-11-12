@@ -1,0 +1,13 @@
+Warranty Information
+
+Standard warranty: All electronics sold on CircuitCart come with a minimum 1-year manufacturer warranty covering hardware defects and malfunctions that occur under normal use.
+
+What warranty covers: Manufacturing defects, hardware failures not caused by the customer, and components that stop working under normal usage conditions within the warranty period.
+
+What warranty does not cover: Physical damage from drops or impacts, water or liquid damage, damage from unauthorized repairs or modifications, normal wear and tear, and cosmetic damage that does not affect function.
+
+Making a warranty claim: If a product develops a hardware issue within the warranty period, the customer should create a support ticket describing the issue. Support will guide them through the next steps, which may include repair, replacement, or further diagnosis depending on the product and issue.
+
+Extended warranty: CircuitCart does not currently offer paid extended warranty plans. All products are covered by their standard manufacturer warranty period only.
+
+Warranty and returns: The warranty period is separate from the 7-day return window. A product outside the return window but still within its warranty period should be handled through a support ticket for a warranty claim, not a standard return request.

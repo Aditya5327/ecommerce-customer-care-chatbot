@@ -1,0 +1,13 @@
+Payment Information
+
+Accepted payment methods: CircuitCart accepts credit cards, debit cards, UPI, net banking, and popular digital wallets, all processed securely through Razorpay.
+
+Payment security: All payments are processed through Razorpay's secure payment gateway. CircuitCart never sees or stores card numbers, CVV codes, UPI PINs, or banking passwords - these are entered directly into Razorpay's secure payment screen.
+
+Failed payments: If a payment fails, no order is created and no money is deducted in most cases. If an amount was deducted but the order does not appear as confirmed, the customer should wait a few minutes and check their order history, or contact support if the issue persists.
+
+Payment confirmation: Once payment is successful, the order status changes to "confirmed" and the customer receives a 6-digit order number to track their purchase.
+
+Cash on delivery: Not currently available. All orders require online payment at checkout.
+
+EMI options: EMI availability depends on the customer's card issuer and is offered directly through the Razorpay payment screen when applicable - CircuitCart does not manage EMI plans directly.

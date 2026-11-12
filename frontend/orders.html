@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Orders — CircuitCart</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .order-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    .order-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .order-status {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+    }
+    .order-number-tag {
+      font-family: var(--font-mono);
+      font-size: 14px;
+      color: var(--cyan);
+      font-weight: 600;
+      letter-spacing: 0.03em;
+    }
+    .status-pending, .status-confirmed { color: var(--cyan); border-color: var(--cyan-dim); }
+    .status-shipped { color: var(--amber); border-color: var(--amber); }
+    .status-delivered { color: var(--success); border-color: var(--success); }
+    .status-cancelled, .status-returned { color: var(--danger); border-color: var(--danger); }
+    .order-item-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      color: var(--text-muted);
+      padding: 4px 0;
+    }
+    .order-actions {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="logo"><span class="dot"></span>CircuitCart</a>
+      <div class="nav-links">
+        <a href="index.html">Shop</a>
+        <a href="cart.html" class="nav-icon-link">
+          Cart <span id="cart-badge" class="cart-badge">0</span>
+        </a>
+        <span id="nav-auth-slot"></span>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container" style="padding-top: 32px; padding-bottom: 64px; max-width: 720px;">
+    <h1 class="section-title">My Orders</h1>
+    <div id="orders-root"></div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script src="js/orders.js"></script>
+</body>
+</html>

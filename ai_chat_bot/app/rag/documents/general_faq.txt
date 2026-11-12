@@ -1,0 +1,15 @@
+General FAQ
+
+What is CircuitCart: CircuitCart is an online electronics store specializing in laptops, computer mice, keyboards, and headphones.
+
+Creating an account: Customers can create an account using their name, email, and a password. An account is required to add items to a cart, place orders, and track order history.
+
+Forgotten password: Currently, password recovery is not self-service. Customers who are logged in can change their password from their account menu. Customers who cannot log in should contact support for help regaining access.
+
+Contacting support: Customers can create a support ticket by describing their issue to the chatbot, or through the support section of the website. Support tickets can be tracked using their ticket number.
+
+Product authenticity: All products sold on CircuitCart are genuine, sourced from authorized brand channels, and covered by their standard manufacturer warranty.
+
+Price changes: Product prices may change over time based on availability and market conditions. The price charged is always the price shown at the time an order is placed, not a price shown before or after.
+
+Stock availability: Stock levels are shown in real time on each product page. If a product shows as out of stock, customers can check back later, as inventory is restocked periodically.

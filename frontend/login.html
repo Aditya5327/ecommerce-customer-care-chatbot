@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login — CircuitCart</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="logo"><span class="dot"></span>CircuitCart</a>
+      <div class="nav-links">
+        <a href="index.html">Shop</a>
+        <a href="cart.html" class="nav-icon-link">
+          Cart <span id="cart-badge" class="cart-badge">0</span>
+        </a>
+        <span id="nav-auth-slot"></span>
+      </div>
+    </div>
+  </nav>
+
+  <div class="form-page">
+    <div class="form-card">
+      <h1>Log in</h1>
+      <form id="login-form">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" required />
+        </div>
+        <!-- <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" required />
+        </div> -->
+        <div class="form-group">
+          <label for="password">Password</label>
+
+          <div class="password-wrapper">
+            <input type="password" id="password" required />
+
+            <button type="button" class="password-toggle" id="password-toggle" aria-label="Show password">
+              👁
+            </button>
+          </div>
+        </div>
+        <div class="form-error" id="form-error"></div>
+        <button type="submit" class="btn btn-primary btn-block">Log in</button>
+      </form>
+      <div class="form-footer-link">
+        No account? <a href="register.html">Register</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script src="js/auth.js"></script>
+</body>
+
+</html>

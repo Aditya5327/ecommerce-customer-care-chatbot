@@ -1,0 +1,13 @@
+Shipping Policy
+
+Delivery times: Standard delivery takes 3 to 5 business days within India. Metro cities (Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Kolkata, Pune) typically receive orders within 2 to 4 business days. Remote or rural areas may take up to 7 business days.
+
+Shipping cost: Shipping is free on all orders. There is no minimum order value required for free shipping.
+
+Order tracking: Once an order is confirmed, customers can track it using their 6-digit order number through the website or by asking the chatbot to track a specific order.
+
+Delivery areas: CircuitCart currently ships across all states and union territories in India. International shipping is not available at this time.
+
+Cash on delivery: Cash on delivery is not currently supported. All orders must be paid online at checkout via Razorpay, which accepts cards, UPI, net banking, and wallets.
+
+Delayed or lost shipments: If a package has not arrived within the expected delivery window, the customer should first track the order using their order number. If the order shows no movement for more than 2 days past the expected delivery date, the customer should contact support or ask the chatbot to create a support ticket.
