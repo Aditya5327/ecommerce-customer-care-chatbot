@@ -443,4 +443,4 @@ Contributions, issues, and feature requests are welcome.
 ## 👨‍💻 Author
 
 **Aditya Jain**
-GitHub: [@Aditya532](https://github.com/Aditya5327)
+GitHub: [@Aditya5327](https://github.com/Aditya5327)
